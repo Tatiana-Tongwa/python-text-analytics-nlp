@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+regex
+nltk
+textblob
+langdetect
+scikit-learn
+sentence-transformers
+matplotlib
