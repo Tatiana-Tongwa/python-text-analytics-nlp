@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project artifacts
+essays_preprocessed.pkl
+*.pkl
+
+# NLTK / model caches (downloaded at runtime)
+nltk_data/
+.cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Uncomment if you do NOT want large data tracked in git:
+# data/hotel_reviews.csv
+# *.zip
